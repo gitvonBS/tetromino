@@ -15,6 +15,7 @@ This project was a collaborative effort, with tasks equally distributed among al
 ## Project Structure
 
 The project is organized into the following directories:
+```
 /tetromino
 ├── /bin # Contains the compiled executable 'prog'
 ├── /include # Header files (.h) for the project
@@ -36,6 +37,7 @@ The project is organized into the following directories:
 │ ├── main.c
 │ └── tetromino.c
 └── Makefile # Used to compile the project
+```
 
 ## Installation and Setup
 
